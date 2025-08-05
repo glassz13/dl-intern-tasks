@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import MinMaxScaler
 
 # 1. Load the CSV files
-comments_df = pd.read_csv("xyz.csv")        
+comments_df = pd.read_csv("comments.csv")        
 engagement_df = pd.read_csv("engagements.csv")     
 
 # 2. Merge on 'post_id'
@@ -103,4 +103,5 @@ final_df["relevance_score"] = (
 print(final_df[["post_id", "category", "sentiment_score", "likes", "dislikes", "avg_read_time_seconds", "relevance_score"]].sort_values(by="relevance_score", ascending=False))
 
 final_df.to_csv("scored_posts.csv", index=False)
+
 print("Saved scored posts to scored_posts.csv")
