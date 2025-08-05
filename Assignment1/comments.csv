@@ -1,0 +1,51 @@
+comment_id,post_id,user_id,text,timestamp,true_sentiment
+1,101,1001,Great post! Really helpful.,10/1/2023 9:15,positive
+2,101,1002,I disagree with some points.,10/1/2023 10:30,negative
+3,102,1003,Thanks for the tutorial!,10/2/2023 11:20,positive
+4,103,1004,This case study is eye-opening.,10/2/2023 14:55,positive
+5,102,1005,Could you elaborate on Section 2?,10/3/2023 8:05,neutral
+6,104,1006,Loved the opinion piece!,10/3/2023 12:30,positive
+7,103,1007,The data seems outdated.,10/4/2023 16:22,negative
+8,105,1008,Short and impactful.,10/5/2023 9:45,positive
+9,104,1009,Needs more examples.,10/5/2023 13:10,neutral
+10,105,1010,Perfect for beginners.,10/6/2023 17:00,positive
+11,106,1011,This changed my perspective.,10/7/2023 10:20,positive
+12,107,1012,Too long and repetitive.,10/7/2023 14:45,negative
+13,108,1013,Clear and concise.,10/8/2023 8:30,positive
+14,106,1014,Where are the sources?,10/8/2023 12:10,neutral
+15,109,1015,Best tutorial I've seen!,10/9/2023 9:25,positive
+16,110,1016,Misleading title.,10/9/2023 11:50,negative
+17,107,1017,Agree 100%!,10/10/2023 13:15,positive
+18,108,1018,Needs more visuals.,10/10/2023 16:40,neutral
+19,109,1019,Saved for later!,10/11/2023 7:55,positive
+20,110,1020,Not relevant to me.,10/11/2023 19:20,neutral
+21,101,1021,Can you share the dataset?,10/12/2023 8:10,neutral
+22,102,1022,Brilliant analysis.,10/12/2023 10:35,positive
+23,103,1023,Overly simplistic.,10/13/2023 12:00,negative
+24,104,1024,Thanks from a newbie!,10/13/2023 15:25,positive
+25,105,1025,Where’s Part 2?,10/14/2023 17:50,neutral
+26,106,1026,This deserves more attention.,10/15/2023 6:15,positive
+27,107,1027,Hard to follow.,10/15/2023 9:40,negative
+28,108,1028,Spot on!,10/16/2023 11:05,positive
+29,109,1029,Too technical for me.,10/16/2023 14:30,neutral
+30,110,1030,Exactly what I needed.,10/17/2023 16:55,positive
+31,101,1031,"More examples, please!",10/18/2023 7:20,neutral
+32,102,1032,Disappointing.,10/18/2023 10:45,negative
+33,103,1033,A masterpiece!,10/19/2023 13:10,positive
+34,104,1034,Could use a summary.,10/19/2023 16:35,neutral
+35,105,1035,I shared this with my team.,10/20/2023 18:00,positive
+36,106,1036,Not convinced.,10/21/2023 8:25,negative
+37,107,1037,Life-changing!,10/21/2023 11:50,positive
+38,108,1038,Too many typos.,10/22/2023 14:15,negative
+39,109,1039,Worth reading twice.,10/22/2023 17:40,positive
+40,110,1040,Meh.,10/23/2023 7:05,neutral
+41,101,1041,Where’s the code repo?,10/23/2023 10:30,neutral
+42,102,1042,Nailed it!,10/24/2023 12:55,positive
+43,103,1043,Missing key details.,10/24/2023 16:20,negative
+44,104,1044,Instant bookmark.,10/25/2023 18:45,positive
+45,105,1045,TL;DR.,10/26/2023 8:10,neutral
+46,106,1046,Changed my workflow.,10/26/2023 11:35,positive
+47,107,1047,Too basic.,10/27/2023 14:00,neutral
+48,108,1048,Gold standard!,10/27/2023 17:25,positive
+49,109,1049,Skip this one.,10/28/2023 7:50,negative
+50,110,1050,10/10 would recommend.,10/28/2023 11:15,positive

@@ -1,0 +1,11 @@
+﻿post_id,likes,dislikes,avg_read_time_seconds,category
+101,45,2,180,tutorial
+102,120,5,240,case-study
+103,30,8,150,opinion
+104,88,3,210,tutorial
+105,200,10,300,case-study
+106,75,6,190,opinion
+107,50,12,160,tutorial
+108,95,4,220,case-study
+109,60,7,170,opinion
+110,150,15,250,tutorial
