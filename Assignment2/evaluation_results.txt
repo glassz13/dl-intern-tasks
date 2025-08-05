@@ -1,0 +1,3 @@
+Evaluation Results:
+Precision@5: 0.317
+NDCG@5:     0.471
